@@ -1,5 +1,6 @@
 //For command GitHub tutorial
-//Local repository modification
+//First GutHub modification
+//Second Local repository modification
 print("hello~");
 print("Tell your world");
 print("Tell his world");
